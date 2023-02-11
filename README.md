@@ -1,4 +1,4 @@
-#hello!
+# Hello!
 ## 0x00. AirBnB clone - The console
 
 ## Introduction
@@ -8,9 +8,9 @@ In this case, we need to create the console that will be used for testing and ma
 ## How to start the console
 For you to start the console, you can do it on an interactive mode using ```./console.py``` or on an non-interactive mode using ```echo "command" | ./console.py```(where command is the command that will be passed)
 
-##For example:
+## For example:
 
-### Interactive form
+### For the interactive mode
 ``` shell
 $ ./console.py
 (hbnb) help
@@ -24,7 +24,7 @@ EOF  help  quit
 (hbnb) quit
 $
 ```
-### Non-interactive form
+### For the non-interactive mode
 ``` shell
 $ echo "help" | ./console.py
 (hbnb)
